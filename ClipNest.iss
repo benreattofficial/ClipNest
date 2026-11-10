@@ -1,6 +1,6 @@
 #define MyAppName "ClipNest"
 #define MyAppVersion "1.0.0"
-#define MyAppPublisher "ClipNest contributors"
+#define MyAppPublisher "benreattofficial"
 #define MyAppExeName "ClipNest.exe"
 
 [Setup]
